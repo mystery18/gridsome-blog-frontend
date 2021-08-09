@@ -151,6 +151,8 @@ query ($page: Int) {
 
 <script>
 import { Pager } from 'gridsome'
+// 这个是gridsome内置的分页器
+
 export default {
   name: "HomePage",
   metaInfo: {
