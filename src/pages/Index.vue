@@ -34,8 +34,8 @@
               </h3> -->
             </g-link>
             <p class="post-meta">
-              Posted by
-              <a href="#!">我现在获取不到作者 我很烦</a>
+              Posted by unknown
+              <!-- <a href="#!">我现在获取不到作者 我很烦</a> -->
               on {{ edge.node.created_at }}
             </p>
             <p>
